@@ -8,8 +8,8 @@ $ sudo npm install plate-cli -g && plate react -d my-project
 
 ## Stack
 - React
-    -react@15.5.4
-    -react-dom@15.5.4
+    - react@15.5.4
+    - react-dom@15.5.4
 - Build
     - webpack@3.0.0
     - webpack-dev-server@2.4.5
