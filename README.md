@@ -7,12 +7,18 @@ $ npm install plate -g && plate react
 ```
 
 ## Stack
-- Webpack
--
+- React
+    -react@15.5.4
+    -react-dom@15.5.4
+- Build
+    - webpack@3.0.0
+    - webpack-dev-server@2.4.5
+    - babel-preset-env@1.4.0
+    - babel-preset-react@6.24.1
+    - babel-preset-stage-0@6.24.1
 
 ## Default Commands
 ```
-$ npm run init
 $ npm run dev
 $ npm run build
 ```
