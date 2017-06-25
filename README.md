@@ -19,6 +19,6 @@ $ npm install plate -g && plate react
 
 ## Default Commands
 ```
-$ npm run dev
-$ npm run build
+$ npm run dev    // lunch webpack-dev-server
+$ npm run build  // build bundle files
 ```
